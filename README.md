@@ -19,3 +19,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+
+<div class="tenor-gif-embed" data-postid="4649388" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/seinfeld-george-architect-architecture-gif-4649388">I&#39;M An Architect GIF</a>from <a href="https://tenor.com/search/seinfeld-gifs">Seinfeld GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
