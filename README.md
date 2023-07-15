@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mashaan (مشعان) 
+My name is Mashaan, that's (مشعان) in Arabic
 
 <!--
 **mashaan14/mashaan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
