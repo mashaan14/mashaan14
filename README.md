@@ -3,7 +3,7 @@
 <!--
 **mashaan14/mashaan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Mashaan (مشعان) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 MSc from KFUPM and a Phd from Sydney Uni.
+
+- 👨‍💻 Passionate about machine learning and data science research with papers published in top journals.
+
+- 👨‍🏫 Experience in designing courses at undergraduate and graduate levels, including a master program in data science offered by an Australian institute.
+
+- 🌐 For more info, please visit my website: mashaan14.github.io/mashaan/
