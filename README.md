@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+My name is Mashaan (مشعان) 
+
 <!--
 **mashaan14/mashaan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-My name is Mashaan (مشعان) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
