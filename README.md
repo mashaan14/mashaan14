@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Mashaan, that's (مشعان) in Arabic
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](https://linkedin.com/in/mashaan)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://linkedin.com/in/mashaan)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mashaan14)
 
 - 🎓 MSc from KFUPM and a Phd from Sydney Uni.
 - 👨‍💻 Passionate about machine learning and data science research with papers published in top journals.
