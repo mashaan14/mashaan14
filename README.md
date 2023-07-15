@@ -4,5 +4,6 @@
 [![GitHub mashaan14](https://img.shields.io/github/followers/mashaan14?label=follow&style=social)](https://github.com/mashaan14)
 
 🎓 🇦🇺 PhD [The University of Sydney](https://www.sydney.edu.au/)
+
 🎓 🇸🇦 MS  [KFUPM](http://www.kfupm.edu.sa/)
 
