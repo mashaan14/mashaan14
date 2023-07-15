@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Mashaan, that's (مشعان) in Arabic
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](https://shields.io/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](https://linkedin.com/in/mashaan)
 
 - 🎓 MSc from KFUPM and a Phd from Sydney Uni.
 - 👨‍💻 Passionate about machine learning and data science research with papers published in top journals.
