@@ -5,5 +5,5 @@
 
 **PhD** ---> [The University of Sydney](https://www.sydney.edu.au/)
 
-**MS** ---> [KFUPM](http://www.kfupm.edu.sa/)
+**MS** ----> [KFUPM](http://www.kfupm.edu.sa/)
 
