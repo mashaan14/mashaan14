@@ -21,4 +21,4 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
-![Alt Text](https://tenor.com/view/seinfeld-george-architect-architecture-gif-4649388)
+![](seinfeld-george.gif)
