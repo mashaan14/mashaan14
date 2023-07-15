@@ -4,7 +4,7 @@
 [![GitHub mashaan14](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mashaan14)
 
 ## Education
-**PhD** ---> [The University of Sydney](https://www.sydney.edu.au/)
+**PhD** ---> [Sydney Uni](https://www.sydney.edu.au/)
 
 **MS** ----> [KFUPM](http://www.kfupm.edu.sa/)
 
