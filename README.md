@@ -7,9 +7,9 @@
 
 2013 --> [KFUPM](http://www.kfupm.edu.sa/) --> 2016 --> **MS** &rarr; :arrow_right:
 
-                                                                    &darr;
+                                                                    :arrow_right:
                                                                     
-                                                                          &rarr;
+                                                                          :arrow_right:
 
 [Sydney Uni](https://www.sydney.edu.au/) ---> **PhD**
 
