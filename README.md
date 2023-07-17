@@ -5,7 +5,7 @@
 
 ### Education
 
-2013 --> [KFUPM](http://www.kfupm.edu.sa/) --> 2016 --> **MS** &rarr;
+2013 --> [KFUPM](http://www.kfupm.edu.sa/) --> 2016 --> **MS** &rarr; :arrow_right:
 
                                                                     &darr;
                                                                     
