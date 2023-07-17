@@ -4,6 +4,9 @@
 [![GitHub mashaan14](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mashaan14)
 
 ### Education
+
+2013 --> [KFUPM](http://www.kfupm.edu.sa/) --> 2016 --> **MS** &rarr;
+
 [Sydney Uni](https://www.sydney.edu.au/) ---> **PhD**
 
 [KFUPM](http://www.kfupm.edu.sa/) -------> **MS**
