@@ -6,7 +6,7 @@
 ### Education
 [Sydney Uni](https://www.sydney.edu.au/) ---> **PhD**
 
-[KFUPM](http://www.kfupm.edu.sa/) -------> **MS**
+[KFUPM](http://www.kfupm.edu.sa/) --------> **MS**
 
 ### Coding
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
