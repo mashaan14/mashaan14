@@ -6,7 +6,9 @@
 ### Education
 
 2013 --> [KFUPM](http://www.kfupm.edu.sa/) --> 2016 --> **MS** &rarr;
+
                                                                     &darr;
+                                                                    
                                                                           &rarr;
 
 [Sydney Uni](https://www.sydney.edu.au/) ---> **PhD**
