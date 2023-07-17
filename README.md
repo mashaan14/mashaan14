@@ -4,9 +4,9 @@
 [![GitHub mashaan14](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mashaan14)
 
 ### Education
-**PhD** ---> [Sydney Uni](https://www.sydney.edu.au/)
+[Sydney Uni](https://www.sydney.edu.au/) ---> **PhD**
 
-**MS** ----> [KFUPM](http://www.kfupm.edu.sa/)
+[KFUPM](http://www.kfupm.edu.sa/) ----> **MS**
 
 ### Coding
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
