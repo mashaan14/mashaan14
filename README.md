@@ -10,7 +10,7 @@
 [KFUPM](http://www.kfupm.edu.sa/) -------> **MS**
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashaan14&layout=compact&card_width=400)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashaan14&layout=compact&card_width=400)
 </p>
 
 <p align="center">
