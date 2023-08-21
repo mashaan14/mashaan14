@@ -11,6 +11,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashaan14&layout=compact&card_width=400)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <p align="center">
   <img src="seinfeld-george.gif" />
 </p>
