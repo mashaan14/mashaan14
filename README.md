@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm Mashaan, that's (مشعان) in Arabic
 [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mashaan14.github.io/mashaan/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mashaan)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mashaan14)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mashaan)
 
 ### Education
 [Sydney Uni](https://www.sydney.edu.au/) ---> **PhD**
