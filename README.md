@@ -9,6 +9,10 @@
 
 [KFUPM](http://www.kfupm.edu.sa/) -------> **MS**
 
+*CHECK OUT MY YOUTUBE CHANNEL*
+[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_03_28_jax_ViT.png" />](https://youtu.be/LDwA31hARrA)
+
+
 <!---
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashaan14&layout=compact&langs_count=8&card_width=320" />
