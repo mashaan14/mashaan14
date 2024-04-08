@@ -5,8 +5,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mashaan)
 
 ### Education
-[Sydney Uni](https://www.sydney.edu.au/) ---> **PhD**
-
+[Sydney Uni](https://www.sydney.edu.au/) ---> **PhD** 
 [KFUPM](http://www.kfupm.edu.sa/) -------> **MS**
 
 ### Check out my YouTube channel
