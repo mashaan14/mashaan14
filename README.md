@@ -1,11 +1,11 @@
-![image](https://github.com/mashaan14/mashaan14/assets/61033787/f63ce5a2-7775-4374-be7f-d6587bce86a3)### Hi there 👋
+### Hi there 👋
 ### I'm Mashaan (مشعان)
 [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mashaan14.github.io/mashaan/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mashaan14)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mashaan)
 
 ### Education
-[Sydney Uni](https://www.sydney.edu.au/) ---> **PhD** 🇦🇺
+[Sydney Uni](https://www.sydney.edu.au/) ---> **PhD**
 
 [KFUPM](http://www.kfupm.edu.sa/) -------> **MS**
 
