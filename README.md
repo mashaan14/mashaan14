@@ -9,7 +9,7 @@
 
 [KFUPM](http://www.kfupm.edu.sa/) -------> **MS**
 
-### check out my YouTube channel
+### Check out my YouTube channel
 [<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_04_14_jax_speed_test.png" />](https://youtu.be/1SQFVYVSuyE)
 
 
