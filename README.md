@@ -5,10 +5,12 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mashaan)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mashaan_14)
 
+<!---
 ### Education
-[Sydney Uni](https://www.sydney.edu.au/) ---> **PhD**
+[Sydney Uni](https://www.sydney.edu.au/) --- **PhD**
 
-[KFUPM](http://www.kfupm.edu.sa/) -------> **MS**
+[KFUPM](http://www.kfupm.edu.sa/) ------- **MS**
+-->
 
 ### check out my YouTube channel:
 [<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_11_11_tpu_test.png" />](https://youtu.be/PwYHoiB4Fag)
