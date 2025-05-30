@@ -13,7 +13,7 @@
 -->
 
 ### check out my YouTube channel:
-[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_08_19_Swin_Transformer.png" />](https://youtu.be/LspWysWparE)
+[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_08_19_Swin_Transformer.avif" />](https://youtu.be/LspWysWparE)
 
 
 <!---
